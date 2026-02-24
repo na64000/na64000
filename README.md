@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://socialify.git.ci/na64000/WeAreImagi/image?custom_language=JavaScript&description=1&font=Rokkitt&language=1&name=1&owner=1&theme=Dark" alt="WeAreImagi Project Banner" />
+  <img src="https://weareimagi.com/_nuxt/8-small-white.Dhfr9RpH.svg" alt="WeAreImagi Project Banner" />
 
   <br />
   <br />
