@@ -48,21 +48,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=na64000&show_icons=true&theme=radical&hide_border=true&bg_color=111111&title_color=f44f44&icon_color=f44f44&text_color=ffffff" alt="na64000's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=na64000&theme=radical&hide_border=true&background=111111&ring=f44f44&fire=f44f44&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="na64000's GitHub streak" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=na64000&layout=compact&theme=radical&hide_border=true&bg_color=111111&title_color=f44f44&text_color=ffffff" alt="Top Languages" width="50%" />
 </div>
 
 ---
 
 ### 📫 How to reach me
 
-- GitHub: [@na64000](https://github.com/na64000)
+- GitHub: [@na64000](https://x.com/na64000)
 - You can find most of my work in my repositories! Feel free to reach out for collaborations or just to say hi!
 
 <!--
